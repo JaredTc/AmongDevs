@@ -29,7 +29,7 @@ button:hover{
 body{
     background-image: url(Storage.png);
     background-position: center;
-    background-size: auto;
+    background-size: fixed;
     background-attachment: fixed;
 
 }
